@@ -1,6 +1,11 @@
 # MongoAPI_php
-MongoDB Easy api, php
-Extension mongodb php
+<p align="center">Easy Mongo</p>
+<ul>
+  Required extension
+  <li>
+    mongodb
+  </li>
+</ul>
 
 ```php
 $code
