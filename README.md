@@ -1,11 +1,6 @@
 # MongoAPI_php
 <p align="center">Easy Mongo</p>
-<ul align="center">
-  Required extension
-  <li>
-    mongodb
-  </li>
-</ul>
+<p align="center">Required extension: mongodb</p>
 
 ```php
 $mongoAPI = new Mongo("connectionString"); //example: mongodb://localhost:27017
