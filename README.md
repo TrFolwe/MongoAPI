@@ -1,4 +1,4 @@
-# MongoAPI_php
+<h1 align="center">MongoAPI-PHP</h1>
 <p align="center">Easy Mongo</p>
 <p align="center">Required extension: mongodb</p>
 
